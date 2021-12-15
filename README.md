@@ -6,5 +6,5 @@
 ### Projeto hospedado em domínio gratuito
 https://crudinvuejs.000webhostapp.com/
 
-https://github.com/fab1opinto/crud-vuejs/issues/1#issue-1081391029
+
 
